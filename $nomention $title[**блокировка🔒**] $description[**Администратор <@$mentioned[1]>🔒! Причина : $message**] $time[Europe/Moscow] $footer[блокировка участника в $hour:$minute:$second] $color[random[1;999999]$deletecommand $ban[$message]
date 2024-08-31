@@ -1,0 +1,8 @@
+$nomention
+$title[**блокировка🔒**]
+$description[**Администратор <@$mentioned[1]>🔒!
+Причина : $message**]
+$time[Europe/Moscow]
+$footer[блокировка участника в $hour:$minute:$second]
+$color[random[1;999999]$deletecommand
+$ban[$message]
